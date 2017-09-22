@@ -1,10 +1,12 @@
 Pré-editorial
 =============
 
-contrato
-ficha de custo
-data de publicação
-arquivamento dos originais
+* contrato
+* ficha de custo
+* data de publicação
+* arquivamento dos originais no prontuário
+* preço
+* cadastro no Odoo
 
 Editorial (tickets)
 ==========
@@ -17,7 +19,6 @@ modelo: `#livro` e `item`.
 * imagem em alta 
 * direitos de imagem 
 * Página de crédito
-* Preço (incluindo epub) 
 * Prova e leitura rápida final + checklist 
 * passar para marketing 
 * cadastrar na Bookwire 
