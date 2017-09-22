@@ -3,13 +3,16 @@ Pré-editorial
 
 contrato
 ficha de custo
-data de publicaç
+data de publicação
+arquivamento dos originais
 
 Editorial (tickets)
 ==========
 
 modelo: @autor item #livro
 
+diagramar
+rodar scripts de troca (ex: nova ortografia)
 texto de capa		 
 imagem em alta 
 direitos de imagem 
@@ -22,6 +25,7 @@ aprovar com autor
 checklist 
 
 
+
 Checklist
 ---------
 
@@ -29,6 +33,10 @@ Checklist
 
 título capa com título miolo?
 autor capa com miolo?
+arquivos estão em \ARQUIVOSGERAIS?
+arquivos estão em github?
+
+
 
 Marketing
 =========
