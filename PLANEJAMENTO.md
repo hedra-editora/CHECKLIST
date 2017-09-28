@@ -43,6 +43,47 @@ Lista
 * Briefing
 * Isbn (Mandar imagem EPS)
 
+### Comandos fichatecnica.sty (ver Manual no Odoo sobre "Fichatécnica")
+
+* copyright
+	* \copyrightlivro
+* tradução©
+	* \copyrighttraducao
+* organização©
+	* \copyrightorganizacao
+* introdução©
+	* \copyrightintroducao
+* ilustração©
+	* \copyrightilustracao
+* título
+	* \titulooriginal
+* edição
+	* \edicaoconsultada
+* primeira
+	* \primeiraedicao
+* agradecimentos
+	* \agradecimentos
+* indicação
+	* \indicacao}
+* edição
+	* \edicao
+* coedição
+	* \coedicao
+* assistência
+	* ditorial
+* revisão
+	* \revisao
+* preparação
+	* \preparacao
+* iconografia
+	* \iconografia
+* capa
+	* \capa
+* imagem
+	* \imagemcapa}
+* ISBN
+	* \ISBN
+
 Checklist
 ---------
 
