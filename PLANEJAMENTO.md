@@ -1,35 +1,8 @@
-Pré-editorial
-=============
+#Tarefas
 
-* contrato
-* ficha de custo
-* data de publicação
-* arquivamento dos originais no prontuário
-* preço
-* cadastro no Odoo
+No arquivo `todo.csv`
 
-Editorial (tickets)
-==========
-
-Tarefas
--------
-
-modelo: `#livro` e `item`.
-
-* diagramar
-* rodar scripts de troca (ex: nova ortografia)
-* texto de capa        
-* imagem em alta 
-* direitos de imagem 
-* Página de crédito
-* Prova e leitura rápida final + checklist 
-* passar para marketing 
-* cadastrar na Bookwire 
-* aprovar com autor 
-* checklist 
-
-
-Lista
+Listas
 -----
 
 ### Solicitação de capa
@@ -43,48 +16,9 @@ Lista
 * Briefing
 * Isbn (Mandar imagem EPS)
 
-### Comandos fichatecnica.sty (ver Manual no Odoo sobre "Fichatécnica")
 
-* copyright
-	* \copyrightlivro
-* tradução©
-	* \copyrighttraducao
-* organização©
-	* \copyrightorganizacao
-* introdução©
-	* \copyrightintroducao
-* ilustração©
-	* \copyrightilustracao
-* título
-	* \titulooriginal
-* edição
-	* \edicaoconsultada
-* primeira
-	* \primeiraedicao
-* agradecimentos
-	* \agradecimentos
-* indicação
-	* \indicacao}
-* edição
-	* \edicao
-* coedição
-	* \coedicao
-* assistência
-	* ditorial
-* revisão
-	* \revisao
-* preparação
-	* \preparacao
-* iconografia
-	* \iconografia
-* capa
-	* \capa
-* imagem
-	* \imagemcapa}
-* ISBN
-	* \ISBN
 
-Checklist
+Checklists
 ---------
 
 ### Fechamento
@@ -101,10 +35,6 @@ Checklist
 * Seguir modelo _Organização e tradução do grego_
 * Verificar se obra não faz parte de subcoleção
 * Verifcar no miolo se constam resumos do autor, da obra e das pessoas envolvidas. Se houver subcoleção, verificar se existe também texto sobre.
-
-
-
-
 
 
 Marketing
